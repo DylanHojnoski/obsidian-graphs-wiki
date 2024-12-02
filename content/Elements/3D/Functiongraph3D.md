@@ -5,7 +5,7 @@ Functiongraph3D creates a function on the 3D board it takes a function as the fi
 ````yaml
 ```graph
 bounds: [-10, 10, 10, -10]
-bounds3d: [[-5,5],[-5,5],[-5,5]]
+bounds3d: [[-5,5], [-5,5], [-5,5]]
 axis: false
 keepAspectRatio: true
 elements: [

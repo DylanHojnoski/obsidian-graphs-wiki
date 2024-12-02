@@ -5,7 +5,7 @@ Creates a text object in the 3d space. Takes an array with the x,y, and z values
 ````yaml
 ```graph
 bounds: [-10, 10, 10, -10]
-bounds3d: [[-5,5],[-5,5],[-5,5]]
+bounds3d: [[-5,5], [-5,5], [-5,5]]
 axis: false
 keepAspectRatio: true
 elements: [

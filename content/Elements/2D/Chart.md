@@ -26,7 +26,7 @@ elements: [
 
 ````yaml
 ```graph
-bounds: [-10, 10, 10, -10]
+bounds: [-10,  10,  10,  -10]
 elements: [
 	{type: chart, def: [1,2,3,4], att: {chartStyle: "fit"}}
 ]
@@ -52,7 +52,7 @@ elements: [
 
 ````yaml
 ```graph
-bounds: [-10, 10, 10, -10]
+bounds: [-10,10,10,-10]
 elements: [
 	{type: chart, def: [1,2,3,4], att: {chartStyle: "pie"}}
 ]
@@ -69,7 +69,7 @@ Radar needs a paramArray.
 ```graph
 bounds: [-10, 10, 10, -10]
 elements: [
-	{type: chart, def: [[1,2,3],[4,3,2],[-5, -6, 0],[-1,5,1]], att: {chartStyle: "radar", paramArray: ["x", "y", "z"]}}
+	{type: chart, def: [[1,2,3], [4,3,2], [-5,-6,0], [-1,5,1]], att: {chartStyle: "radar", paramArray: ["x", "y", "z"]}}
 ]
 ```
 ````
@@ -84,7 +84,7 @@ Takes an array of x coordinates and an array of y coordinates
 ```graph
 bounds: [-10, 10, 10, -10]
 elements: [
-	{type: chart, def: [[1,2,3],[4,3,2]], att: {chartStyle: "spline"}}
+	{type: chart, def: [[1,2,3], [4,3,2]], att: {chartStyle: "spline"}}
 ]
 ```
 ````

@@ -7,7 +7,7 @@ Creates a cubic spline curve. It takes an array x values and then y values`[[x1,
 ```graph
 bounds: [-10, 10, 10, -10]
 elements: [
-{type: spline, def: [[-1,2,3],[3,-3,6]]}
+{type: spline, def: [[-1,2,3], [3,-3,6]]}
 ]
 ```
 ````
@@ -19,9 +19,9 @@ elements: [
 ```graph
 bounds: [-10, 10, 10, -10]
 elements: [
-{type: point, def: [-2,3]},
-{type: point, def: [2,-3]},
-{type: point, def: [3,6]},
+{type: point, def: [-2, 3]},
+{type: point, def: [2, -3]},
+{type: point, def: [3, 6]},
 {type: spline, def: ["e0", "e1", "e2"]}
 ]
 ````

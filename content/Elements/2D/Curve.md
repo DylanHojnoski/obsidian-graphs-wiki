@@ -43,7 +43,7 @@ The first parameter is an array of the x values and the second parameter is an a
 bounds: [-10, 10, 10, -10]
 keepAspectRatio: true
 elements: [
-	{type: curve, def: [[0,1,2,3,4,5,6,7,8,9],[9.2,1.3,7.2,-1.2,4.0,5.3,0.2,6.5,1.1,0.0]]}
+	{type: curve, def: [[0,1,2,3,4,5,6,7,8,9], [9.2,1.3,7.2,-1.2,4.0,5.3,0.2,6.5,1.1,0.0]]}
 ]
 ```
 ````

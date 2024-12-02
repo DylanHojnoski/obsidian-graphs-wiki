@@ -5,7 +5,7 @@ Curve3D creates a curve on the 3D board it takes three functions for x, y, and z
 ````yaml
 ```graph
 bounds: [-10, 10, 10, -10]
-bounds3d: [[-5,5],[-5,5],[-5,5]]
+bounds3d: [[-5,5], [-5,5], [-5,5]]
 axis: false
 keepAspectRatio: true
 elements: [

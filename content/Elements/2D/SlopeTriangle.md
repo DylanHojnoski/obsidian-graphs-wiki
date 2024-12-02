@@ -4,10 +4,10 @@ Creates slope triangle which displays the slope based on a point on a line. The 
 
 ````yaml
 ```graph
-bounds: [-10,10,10,-10]
+bounds: [-10, 10, 10, -10]
 elements: [
-	{type: line, def: [[0,0],[2,5]]},
-	{type: glider, def: [0,0, "e0"]},
+	{type: line, def: [[0,0], [2,5]]},
+	{type: glider, def: [0, 0, "e0"]},
 	{type: slopetriangle, def: ["e0", "e1"]}
 ]
 ```
@@ -17,10 +17,10 @@ elements: [
 
 ````yaml
 ```graph
-bounds: [-10,10,10,-10]
+bounds: [-10, 10, 10, -10]
 elements: [
 	{type: functiongraph, def: ["f:sin(x)"]},
-	{type: glider, def: [0,0, "e0"]},
+	{type: glider, def: [0, 0, "e0"]},
 	{type: tangent, def: ["e1"]},
 	{type: slopetriangle, def: ["e2"]}
 ]

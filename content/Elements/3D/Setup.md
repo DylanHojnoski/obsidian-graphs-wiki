@@ -5,7 +5,7 @@ To make a 3D graph you need to set the `bounds3D` graph variable which is an arr
 ````yaml
 ```graph
 bounds: [-10, 10, 10, -10]
-bounds3d: [[-5,5],[-5,5],[-5,5]]
+bounds3d: [[-5,5], [-5,5], [-5,5]]
 axis: false
 keepAspectRatio: true
 ```

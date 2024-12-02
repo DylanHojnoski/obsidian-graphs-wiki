@@ -5,7 +5,7 @@ Point3D creates a point on the 3D board it takes an x, y, and z value for parame
 ````yaml
 ```graph
 bounds: [-10, 10, 10, -10]
-bounds3d: [[-5,5],[-5,5],[-5,5]]
+bounds3d: [[-5,5], [-5,5], [-5,5]]
 axis: false
 keepAspectRatio: true
 elements: [

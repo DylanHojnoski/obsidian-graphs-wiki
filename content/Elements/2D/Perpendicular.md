@@ -6,8 +6,8 @@ Creates a line that is perpendicular to a line and goes through a point. Takes i
 ```graph
 bounds: [-10, 10, 10, -10]
 elements: [
-	{type: line, def: [[1,2],[2,4]]},
-	{type: perpendicular, def: ["e0",[5,5]]}
+	{type: line, def: [[1,2], [2,4]]},
+	{type: perpendicular, def: ["e0", [5,5]]}
 ]
 ```
 ````

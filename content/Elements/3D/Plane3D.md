@@ -5,7 +5,7 @@ Plane3D creates a plane on the 3D board it takes a starting 3D point and then ta
 ````yaml
 ```graph
 bounds: [-10, 10, 10, -10]
-bounds3d: [[-5,5],[-5,5],[-5,5]]
+bounds3d: [[-5,5], [-5,5], [-5,5]]
 axis: false
 keepAspectRatio: true
 elements: [

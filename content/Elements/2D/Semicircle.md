@@ -7,7 +7,7 @@ Semicircle creates a semicircle which takes two points and makes and ark between
 bounds: [-10, 10, 10, -10]
 keepAspectRatio: true
 elements: [
-	{type: semicircle, def: [[0, 0],[6,0]]}
+	{type: semicircle, def: [[0, 0], [6,0]]}
 ]
 ```
 ````

@@ -7,7 +7,7 @@ Creates a boxplot which takes an array containing at least 5 quantiles and then 
 bounds: [-10, 10, 10, -10]
 keepAspectRatio: true
 elements: [
-	{type: boxplot, def: [[-1, 2, 3, 3.5, 5], 2, 4]}
+	{type: boxplot, def: [[-1,2,3,3.5,5], 2, 4]}
 ]
 ```
 ````

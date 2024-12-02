@@ -8,7 +8,7 @@ The bounds controls the dimensions of the graph it is defined through four numbe
 
 ````yaml
 ```graph
-bounds: [-10,10,10,-10]
+bounds: [-10, 10, 10, -10]
 ```
 ````
 
@@ -70,7 +70,7 @@ Some examples:
 
 ````yaml
 ```graph
-bounds: [-10,10,10,-10]
+bounds: [-10, 10, 10, -10]
 elements: [
 	{type: functiongraph, def: ["f:sin(x)"]}
 ]
@@ -86,14 +86,14 @@ For example a line requires two points to be created so we can create two points
 
 ````yaml
 ```graph
-bounds: [-10,10,10,-10]
+bounds: [-10, 10, 10, -10]
 elements: [
 	{type: point, def: [1,1]},
 	{type: point, def: [4,5]},
-	{type: line, def: ["e0","e1"]}
+	{type: line, def: ["e0", "e1"]}
 ]
 ```
 ````
 
-![composing](../../imgs/Composing-graph-1.png)
+![composing](./imgs/Composing-graph-1.png)
 

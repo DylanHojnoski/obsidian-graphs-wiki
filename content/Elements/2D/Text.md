@@ -5,10 +5,10 @@ You can use LaTeX in your text by wrapping text in `$` to do inline math. To use
 
 ````yaml
 ```graph
-bounds: [-10,10,10,-10]
+bounds: [-10, 10, 10, -10]
 elements: [
 	{type: point, def: [0,1]},
-	{type: text, def: [1,1, "Hello"], att: {anchor: "e0"}}
+	{type: text, def: [1, 1, "Hello"], att: {anchor: "e0"}}
 ]
 ```
 ````

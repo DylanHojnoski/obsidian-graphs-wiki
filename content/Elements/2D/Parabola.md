@@ -6,7 +6,7 @@ Parabola creates a parabola on the graph and takes a point for the focus and a l
 ```graph
 bounds: [-10, 10, 10, -10]
 elements: [
-	{type: parabola, def: [[2,0], [[-1,4],[-1,-4]]]}
+	{type: parabola, def: [[2,0], [[-1,4], [-1,-4]]]}
 ]
 ```
 ````

@@ -6,7 +6,7 @@ Lines are created by defining a line with two points. It takes two points as par
 ```graph
 bounds: [-10, 10, 10, -10]
 elements: [
-	{type: line, def: [[0,0],[4,1]]}
+	{type: line, def: [[0,0], [4,1]]}
 ]
 ```
 ````

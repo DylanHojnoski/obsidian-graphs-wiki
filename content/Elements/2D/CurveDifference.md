@@ -9,7 +9,7 @@ keepAspectRatio: true
 elements: [
 	{type: functiongraph, def: ["f:cos(x)"]},
 	{type: inequality, def: ["e0"], att: {inverse:true, fillOpacity: 0.1}},
-	{type: circle, def: [[0,0],4]},
+	{type: circle, def: [[0,0], 4]},
 	{type: curvedifference, def: ["e1", "e2"], att: {fillColor: yellow, fillOpacity: 0.6}}
 ]
 ```

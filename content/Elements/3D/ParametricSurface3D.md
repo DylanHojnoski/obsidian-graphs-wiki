@@ -5,7 +5,7 @@ ParametricSurface3D creates a parametric surface on the 3D board which takes thr
 ````yaml
 ```graph
 bounds: [-10, 10, 10, -10]
-bounds3d: [[-5,5],[-5,5],[-5,5]]
+bounds3d: [[-5,5], [-5,5], ;[-5,5]]
 axis: false
 keepAspectRatio: true
 elements: [
