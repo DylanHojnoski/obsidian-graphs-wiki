@@ -7,7 +7,7 @@ Attributes are put in the `att: {}` section when creating an element after the `
 ### Example
 
 ```yaml
-{type: line, def: [[0,0],[1,5]], att: {strokeColor: blue}}
+{type: line, def: [[0,0], [1,5]], att: {strokeColor: blue}}
 ```
 
 * changes the stroke color to blue
