@@ -11,4 +11,4 @@ elements: [
 ```
 ````
 
-![arrow](./imgs/Arrow-graph-1.png)
+![arrow](imgs/Arrow-graph-1.png)
