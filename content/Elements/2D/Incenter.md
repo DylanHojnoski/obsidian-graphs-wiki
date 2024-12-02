@@ -12,4 +12,4 @@ elements: [
 ```
 ````
 
-![incenter](../../imgs/Incenter-graph-1.png)
+![incenter](imgs/Incenter-graph-1.png)

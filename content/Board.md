@@ -12,7 +12,7 @@ bounds: [-10, 10, 10, -10]
 ```
 ````
 
-![bounds](../../imgs/Board-graph-1.png)
+![bounds](imgs/Board-graph-1.png)
 
 ## DefaultAxes
 
@@ -142,7 +142,7 @@ bounds: [-10, 10, 10, -10]
 ```
 ````
 
-![navigation](../../imgs/Board-graph-2.png)
+![navigation](imgs/Board-graph-2.png)
 
 Without navigation
 
@@ -153,7 +153,7 @@ showNavigation: false
 ```
 ````
 
-![noNavigation](../../imgs/Board-graph-1.png)
+![noNavigation](imgs/Board-graph-1.png)
 
 ## Axis
 

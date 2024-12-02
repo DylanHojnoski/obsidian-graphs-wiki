@@ -12,5 +12,5 @@ elements: [
 ```
 ````
 
-![perpendicular](../../imgs/Perpendicular-graph-1.png)
+![perpendicular](imgs/Perpendicular-graph-1.png)
 

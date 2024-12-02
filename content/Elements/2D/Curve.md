@@ -16,7 +16,7 @@ elements: [
 ```
 ````
 
-![curveParametric](../../imgs/Curve-graph-1.png)
+![curveParametric](imgs/Curve-graph-1.png)
 
 ## Polar
 
@@ -32,7 +32,7 @@ elements: [
 ```
 ````
 
-![curvePolar](../../imgs/Curve-graph-2.png)
+![curvePolar](imgs/Curve-graph-2.png)
 
 ## Data Plots
 
@@ -48,4 +48,4 @@ elements: [
 ```
 ````
 
-![curveData](../../imgs/Curve-graph-3.png)
+![curveData](imgs/Curve-graph-3.png)

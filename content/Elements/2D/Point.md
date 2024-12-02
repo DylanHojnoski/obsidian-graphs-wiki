@@ -11,5 +11,5 @@ elements: [
 ```
 ````
 
-![point](../../imgs/Point-graph-1.png)
+![point](imgs/Point-graph-1.png)
 

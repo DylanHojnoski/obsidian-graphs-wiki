@@ -14,5 +14,5 @@ elements: [
 ```
 ````
 
-![screenshot-2024-08-14-19-31-11](../../imgs/Polygon3D-graph-1.png)
+![polygon3d](imgs/Polygon3D-graph-1.png)
 

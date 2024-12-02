@@ -11,5 +11,5 @@ elements: [
 ```
 ````
 
-![slider](../../imgs/Slider-graph-1.png)
+![slider](imgs/Slider-graph-1.png)
 

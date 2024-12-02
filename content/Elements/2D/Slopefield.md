@@ -11,5 +11,5 @@ elements: [
 ```
 ````
 
-![slopeField](../../imgs/Slopefield-graph-1.png)
+![slopeField](imgs/Slopefield-graph-1.png)
 

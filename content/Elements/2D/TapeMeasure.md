@@ -13,5 +13,5 @@ elements: [
 ```
 ````
 
-![tapemeasure](../../imgs/TapeMeasure-graph-1.png)
+![tapemeasure](imgs/TapeMeasure-graph-1.png)
 

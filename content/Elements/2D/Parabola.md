@@ -11,5 +11,5 @@ elements: [
 ```
 ````
 
-![parabola](../../imgs/Parabola-graph-1.png)
+![parabola](imgs/Parabola-graph-1.png)
 

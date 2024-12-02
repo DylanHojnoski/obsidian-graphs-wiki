@@ -11,7 +11,7 @@ elements: [
 ```
 ````
 
-![polygon](../../imgs/Polygon-graph-1.png)
+![polygon](imgs/Polygon-graph-1.png)
 
 To change the attributes of the points of a polygon you need to use the `vertices` object.
 To change the attributes of the lines of a polygon you need to use the `borders` object.
@@ -25,5 +25,5 @@ elements: [
 ```
 `````
 
-![polygon2](../../imgs/Polygon-graph-2.png)
+![polygon2](imgs/Polygon-graph-2.png)
 

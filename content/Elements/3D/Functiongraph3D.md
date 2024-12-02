@@ -14,5 +14,5 @@ elements: [
 ```
 ````
 
-![functiongraph3d](../../imgs/Functiongraph3D-graph-1.png)
+![functiongraph3d](imgs/Functiongraph3D-graph-1.png)
 

@@ -12,5 +12,5 @@ elements: [
 ```
 ````
 
-![implcitcurve](../../imgs/ImplicitCurve-graph-1.png)
+![implcitcurve](imgs/ImplicitCurve-graph-1.png)
 

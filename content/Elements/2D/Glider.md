@@ -13,5 +13,5 @@ elements: [
 ```
 ````
 
-![glider](../../imgs/Glider-graph-1.png)
+![glider](imgs/Glider-graph-1.png)
 

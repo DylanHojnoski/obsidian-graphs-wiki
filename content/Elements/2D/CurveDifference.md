@@ -15,4 +15,4 @@ elements: [
 ```
 ````
 
-![curveDifference](../../imgs/CurveDifference-graph-1.png)
+![curveDifference](imgs/CurveDifference-graph-1.png)

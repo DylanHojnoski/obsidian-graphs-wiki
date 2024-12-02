@@ -14,4 +14,4 @@ elements: [
 ```
 ````
 
-![curve3d](../../imgs/Curve3D-graph-1.png)
+![curve3d](imgs/Curve3D-graph-1.png)

@@ -11,5 +11,5 @@ elements: [
 ```
 ````
 
-![segment](../../imgs/Segment-graph-1.png)
+![segment](imgs/Segment-graph-1.png)
 

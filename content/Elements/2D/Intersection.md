@@ -13,5 +13,5 @@ elements: [
 ```
 ````
 
-![intersection](../../imgs/Intersection-graph-1.png)
+![intersection](imgs/Intersection-graph-1.png)
 

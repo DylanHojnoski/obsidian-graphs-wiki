@@ -15,5 +15,5 @@ elements: [
 ```
 ````
 
-![curveUnion](../../imgs/CurveUnion-graph-1.png)
+![curveUnion](imgs/CurveUnion-graph-1.png)
 

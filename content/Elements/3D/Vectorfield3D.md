@@ -14,4 +14,4 @@ elements: [
 ```
 ````
 
-![vectorfield3d](../../imgs/Vectorfield3D-graph-1.png)
+![vectorfield3d](imgs/Vectorfield3D-graph-1.png)

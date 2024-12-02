@@ -12,4 +12,4 @@ elements: [
 ```
 ````
 
-![Boxplot](../../imgs/Boxplot-graph-1.png)
+![Boxplot](imgs/Boxplot-graph-1.png)

@@ -12,5 +12,5 @@ elements: [
 ```
 ````
 
-![circle](../../imgs/Circle-graph-1.png)
+![circle](imgs/Circle-graph-1.png)
 

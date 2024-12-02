@@ -12,5 +12,5 @@ elements: [
 ```
 ````
 
-![inequality](../../imgs/Inequality-graph-1.png)
+![inequality](imgs/Inequality-graph-1.png)
 

@@ -14,4 +14,4 @@ elements: [
 ```
 ````
 
-![text3d](../../imgs/Text3D-graph-1.png)
+![text3d](imgs/Text3D-graph-1.png)

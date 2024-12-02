@@ -11,4 +11,4 @@ elements: [
 ```
 ````
 
-![functiongraph](../../imgs/Functiongraph-graph-1.png)
+![functiongraph](imgs/Functiongraph-graph-1.png)

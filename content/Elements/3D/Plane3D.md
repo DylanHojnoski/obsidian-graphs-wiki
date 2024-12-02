@@ -14,5 +14,5 @@ elements: [
 ```
 ````
 
-![plane3d](../../imgs/Plane3D-graph-1.png)
+![plane3d](imgs/Plane3D-graph-1.png)
 

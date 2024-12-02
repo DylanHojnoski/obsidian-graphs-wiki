@@ -12,5 +12,5 @@ elements: [
 ```
 ````
 
-![stepfunction](../../imgs/Stepfunction-graph-1.png)
+![stepfunction](imgs/Stepfunction-graph-1.png)
 

@@ -12,4 +12,4 @@ elements: [
 ```
 ````
 
-![circumcircle](https://github.com/DylanHojnoski/obsidian-graphs/assets/68570349/02b4d2b7-00ec-40ab-98ad-4be901ab9104)
+![circumcircle](imgs/Circumcircle-graph-1.png)

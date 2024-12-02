@@ -21,5 +21,5 @@ elements: [
 ```
 ````
 
-![riemannsum](../../imgs/Riemannsum-graph-1.png)
+![riemannsum](imgs/Riemannsum-graph-1.png)
 

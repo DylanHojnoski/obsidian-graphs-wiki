@@ -14,5 +14,5 @@ elements: [
 ```
 ````
 
-![sphere3d](../../imgs/Sphere3D-graph-1.png)
+![sphere3d](imgs/Sphere3D-graph-1.png)
 

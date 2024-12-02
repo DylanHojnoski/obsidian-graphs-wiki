@@ -20,7 +20,7 @@ elements: [
 ```
 ````
 
-![chartBar](../../imgs/Chart-graph-1.png)
+![chartBar](imgs/Chart-graph-1.png)
 
 ## Fit
 
@@ -33,7 +33,7 @@ elements: [
 ```
 ````
 
-![chartFit](../../imgs/Chart-graph-2.png)
+![chartFit](imgs/Chart-graph-2.png)
 
 ## Line
 
@@ -46,7 +46,7 @@ elements: [
 ```
 ````
 
-![chartLine](../../imgs/Chart-graph-3.png)
+![chartLine](imgs/Chart-graph-3.png)
 
 ## Pie
 
@@ -59,7 +59,7 @@ elements: [
 ```
 ````
 
-![chartPie](../../imgs/Chart-graph-4.png)
+![chartPie](imgs/Chart-graph-4.png)
 
 ## Radar
 
@@ -74,7 +74,7 @@ elements: [
 ```
 ````
 
-![chartRadar](../../imgs/Chart-graph-6.png)
+![chartRadar](imgs/Chart-graph-6.png)
 
 ## Spline
 
@@ -89,5 +89,5 @@ elements: [
 ```
 ````
 
-![chartSpline](../../imgs/Chart-graph-7.png)
+![chartSpline](imgs/Chart-graph-7.png)
 

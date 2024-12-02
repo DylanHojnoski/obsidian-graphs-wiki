@@ -15,5 +15,5 @@ elements: [
 ```
 ````
 
-![curveIntersection](../../imgs/CurveIntersection-graph-1.png)
+![curveIntersection](imgs/CurveIntersection-graph-1.png)
 

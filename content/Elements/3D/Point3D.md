@@ -14,5 +14,5 @@ elements: [
 ```
 ````
 
-![point3d](../../imgs/Point3D-graph-1.png)
+![point3d](imgs/Point3D-graph-1.png)
 

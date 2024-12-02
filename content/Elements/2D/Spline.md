@@ -12,7 +12,7 @@ elements: [
 ```
 ````
 
-![spline1](../../imgs/Spline-graph-1.png)
+![spline1](imgs/Spline-graph-1.png)
 
 
 ````yaml
@@ -26,7 +26,7 @@ elements: [
 ]
 ````
 
-![spline2](../../imgs/Spline-graph-2.png)
+![spline2](imgs/Spline-graph-2.png)
 
 
 

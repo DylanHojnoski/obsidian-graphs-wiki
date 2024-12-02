@@ -12,5 +12,5 @@ elements: [
 ```
 ````
 
-![semicircle](../../imgs/Semicircle-graph-1.png)
+![semicircle](imgs/Semicircle-graph-1.png)
 

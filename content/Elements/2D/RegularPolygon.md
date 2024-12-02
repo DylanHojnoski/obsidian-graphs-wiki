@@ -12,5 +12,5 @@ elements: [
 ```
 ````
 
-![regularPolygon](../../imgs/RegularPolygon-graph-1.png)
+![regularPolygon](imgs/RegularPolygon-graph-1.png)
 

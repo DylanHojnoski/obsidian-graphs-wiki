@@ -14,4 +14,4 @@ elements: [
 ```
 ````
 
-![circle3d](../../imgs/Circle3D-graph-1.png)
+![circle3d](imgs/Circle3D-graph-1.png)

@@ -14,5 +14,5 @@ elements: [
 ```
 ````
 
-![parametricsurface3d](../../imgs/ParametricSurface3D-graph-1.png)
+![parametricsurface3d](imgs/ParametricSurface3D-graph-1.png)
 

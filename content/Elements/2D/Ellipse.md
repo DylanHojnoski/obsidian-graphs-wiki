@@ -12,5 +12,5 @@ elements: [
 ```
 ````
 
-![ellipse](../../imgs/Ellipse-graph-1.png)
+![ellipse](imgs/Ellipse-graph-1.png)
 

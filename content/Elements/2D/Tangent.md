@@ -14,5 +14,5 @@ elements: [
 ```
 ````
 
-![tangent](../../imgs/Tangent-graph-1.png)
+![tangent](imgs/Tangent-graph-1.png)
 

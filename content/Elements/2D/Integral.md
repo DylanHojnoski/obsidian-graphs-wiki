@@ -12,5 +12,5 @@ elements: [
 ```
 ````
 
-![integral](../../imgs/Integral-graph-1.png)
+![integral](imgs/Integral-graph-1.png)
 

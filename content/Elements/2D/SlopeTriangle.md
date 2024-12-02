@@ -13,7 +13,7 @@ elements: [
 ```
 ````
 
-![slopeTriangle1](../../imgs/SlopeTriangle-graph-1.png)
+![slopeTriangle1](imgs/SlopeTriangle-graph-1.png)
 
 ````yaml
 ```graph
@@ -27,5 +27,5 @@ elements: [
 ```
 ````
 
-![slopeTriangle2](../../imgs/SlopeTriangle-graph-2.png)
+![slopeTriangle2](imgs/SlopeTriangle-graph-2.png)
 

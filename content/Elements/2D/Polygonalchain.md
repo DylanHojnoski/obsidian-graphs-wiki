@@ -12,5 +12,5 @@ elements: [
 ```
 ````
 
-![polygonalchain](../../imgs/Polygonalchain-graph-1.png)
+![polygonalchain](imgs/Polygonalchain-graph-1.png)
 

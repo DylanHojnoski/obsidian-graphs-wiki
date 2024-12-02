@@ -11,5 +11,5 @@ elements: [
 ```
 ````
 
-![vectorField](../../imgs/Vectorfield-graph-1.png)
+![vectorField](imgs/Vectorfield-graph-1.png)
 

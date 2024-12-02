@@ -12,5 +12,5 @@ elements: [
 ```
 ````
 
-![parallel](../../imgs/Parallel-graph-1.png)
+![parallel](imgs/Parallel-graph-1.png)
 
