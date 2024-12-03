@@ -14,7 +14,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: null,
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "dylanhojnoski.github.io/obsidian-graphs-wiki",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     generateSocialImages: false,
