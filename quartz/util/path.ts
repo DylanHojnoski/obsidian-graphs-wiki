@@ -108,10 +108,10 @@ const _rebaseHtmlElement = (el: Element, attr: string, newBase: string | URL) =>
   el.setAttribute(attr, rebased.pathname + rebased.hash)
 }
 export function normalizeRelativeURLs(el: Element | Document, destination: string | URL) {
-  el.querySelectorAll('[href^="./"], [href^="../"]').forEach((item) =>
+  el.querySelectorAll('[href=""], [href^="./"], [href^="../"]').forEach((item) =>
     _rebaseHtmlElement(item, "href", destination),
   )
-  el.querySelectorAll('[src^="./"], [src^="../"]').forEach((item) =>
+  el.querySelectorAll('[src=""], [src^="./"], [src^="../"]').forEach((item) =>
     _rebaseHtmlElement(item, "src", destination),
   )
 }
@@ -185,8 +185,13 @@ export function slugTag(tag: string) {
 export function joinSegments(...args: string[]): string {
   return args
     .filter((segment) => segment !== "")
+    .map((segment, index) =>
+      index === 0
+        ? // Deduplicate but not remove leading slashes for first segment
+          segment.replace(/\/+$/g, "").replace(/^\/\/+/g, "/")
+        : segment.replace(/^\/+|\/+$/g, ""),
+    )
     .join("/")
-    .replace(/\/\/+/g, "/")
 }
 
 export function getAllSegmentPrefixes(tags: string): string[] {
