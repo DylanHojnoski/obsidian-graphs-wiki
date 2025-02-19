@@ -42,10 +42,9 @@ There are three fields to fill out:
 		
 #### Creating Functions
 
-To make a function as a parameter you need to make a string such as `"f:"` after the f: you can use math operators and functions supported by [JS Math](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math). 
+To make a function as a parameter you need to make a string such as `f:` after the f: you can use math operators and functions supported by [JS Math](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math).  __Can't have a space after f:.__
 
-For variables there are by default `x`, `y`, and `z` defined in that order but they may not be used based on the element that they are being used on. You can change the name of the variable by doing `f(a,b,c):`.  You can define up to three variables. What the variables represent may change based on the element they are used on but in most cases it is the x, y, and z axes.
-
+For variables there are by default `x`, `y`, and `z` defined in that order but they may not be used based on the element that they are being used on. 
 Math Operators
 * \+
 	* addition
@@ -72,7 +71,7 @@ Some examples:
 ```graph
 bounds: [-10, 10, 10, -10]
 elements: [
-	{type: functiongraph, def: ["f:sin(x)"]}
+	{type: functiongraph, def: [f:sin(x)]}
 ]
 ```
 ````
@@ -80,7 +79,7 @@ elements: [
 ![creatingFunctions](imgs/Functiongraph-graph-1.png)
 
 #### Composing Elements
-Elements can be composed to make other elements if an elements takes a point or line as a parameter then you can give it an already existing one. The element given as a parameter has to be defined before where it is being used and is accessed by passing in the index number starting at 0 for the element as a string with an e before it `"e0"`.
+Elements can be composed to make other elements if an elements takes a point or line as a parameter then you can give it an already existing one. The element given as a parameter has to be defined before where it is being used and is accessed by passing in the index number starting at 0 for the element as a string with an e before it `e0`.
 
 For example a line requires two points to be created so we can create two points before the line and then pass in the points as parameters.
 
@@ -90,7 +89,7 @@ bounds: [-10, 10, 10, -10]
 elements: [
 	{type: point, def: [1,1]},
 	{type: point, def: [4,5]},
-	{type: line, def: ["e0", "e1"]}
+	{type: line, def: [e0, e1]}
 ]
 ```
 ````

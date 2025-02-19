@@ -15,7 +15,7 @@ Chart creates different types of charts it takes in an array of data and in the 
 ```graph
 bounds: [-10, 10, 10, -10]
 elements: [
-	{type: chart, def: [1,2,3,4], att: {chartStyle: "bar"}}
+	{type: chart, def: [1,2,3,4], att: {chartStyle: bar}}
 ]
 ```
 ````
@@ -28,7 +28,7 @@ elements: [
 ```graph
 bounds: [-10,  10,  10,  -10]
 elements: [
-	{type: chart, def: [1,2,3,4], att: {chartStyle: "fit"}}
+	{type: chart, def: [1,2,3,4], att: {chartStyle: fit}}
 ]
 ```
 ````
@@ -41,7 +41,7 @@ elements: [
 ```graph
 bounds: [-10, 10, 10, -10]
 elements: [
-	{type: chart, def: [1,2,3,4], att: {chartStyle: "line"}}
+	{type: chart, def: [1,2,3,4], att: {chartStyle: line}}
 ]
 ```
 ````
@@ -54,7 +54,7 @@ elements: [
 ```graph
 bounds: [-10,10,10,-10]
 elements: [
-	{type: chart, def: [1,2,3,4], att: {chartStyle: "pie"}}
+	{type: chart, def: [1,2,3,4], att: {chartStyle: pie}}
 ]
 ```
 ````
@@ -69,7 +69,7 @@ Radar needs a paramArray.
 ```graph
 bounds: [-10, 10, 10, -10]
 elements: [
-	{type: chart, def: [[1,2,3], [4,3,2], [-5,-6,0], [-1,5,1]], att: {chartStyle: "radar", paramArray: ["x", "y", "z"]}}
+	{type: chart, def: [[1,2,3], [4,3,2], [-5,-6,0], [-1,5,1]], att: {chartStyle: radar, paramArray: [x, y, z]}}
 ]
 ```
 ````
@@ -84,7 +84,7 @@ Takes an array of x coordinates and an array of y coordinates
 ```graph
 bounds: [-10, 10, 10, -10]
 elements: [
-	{type: chart, def: [[1,2,3], [4,3,2]], att: {chartStyle: "spline"}}
+	{type: chart, def: [[1,2,3], [4,3,2]], att: {chartStyle: spline}}
 ]
 ```
 ````

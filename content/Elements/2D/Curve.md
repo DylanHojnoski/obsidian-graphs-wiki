@@ -11,7 +11,7 @@ The first parameter is a number or function that describes the x-coordinate. The
 bounds: [-10, 10, 10, -10]
 keepAspectRatio: true
 elements: [
-	{type: curve, def: ["f:x-sin(x)", "f:1-cos(x)", 0, "f:2*PI"]}
+	{type: curve, def: [f:x-sin(x), f:1-cos(x), 0, f:2*PI]}
 ]
 ```
 ````
@@ -27,7 +27,7 @@ The first parameter is a function in terms of phi (use x as variable). The secon
 bounds: [-10, 10, 10, -10]
 keepAspectRatio: true
 elements: [
-	{type: curve, def: ["f:1-cos(x)", [1,0], 0, "f:2*PI"]}
+	{type: curve, def: [f:1-cos(x), [1,0], 0, f:2*PI]}
 ]
 ```
 ````
